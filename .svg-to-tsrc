@@ -10,6 +10,6 @@
     "generateType": true,
     "exportCompleteIconSet": true,
     "optimizeForLazyLoading": true,
-    "modelFileName": "REPLACE_ME.model",
+    "modelFileName": "doolesIcons.model",
     "compileSources": true
 }
