@@ -4,9 +4,9 @@
       "./svg-icons/**/*.svg"
     ],
     "outputDirectory": "./dist/icons",
-    "interfaceName": "REPLACE_ME",
-    "typeName": "REPLACE_ME",
-    "prefix": "REPLACE_ME",
+    "interfaceName": "Doodel_icons",
+    "typeName": "handwrite_icons",
+    "prefix": "dd",
     "generateType": true,
     "exportCompleteIconSet": true,
     "optimizeForLazyLoading": true,
